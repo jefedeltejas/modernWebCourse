@@ -1,6 +1,6 @@
 Title: Intro Notes
 
-Discussion 1. Web Hosting Challenges
+Discussion 1. Web Hosting Solutions
     1. Technologies you consider looking for:
 	Local PC with static IP and Web Hosting
 	Reason: low cost solution, keep code on local machine where development 	happens, 

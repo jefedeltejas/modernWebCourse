@@ -1,0 +1,22 @@
+Title: Intro Notes
+
+Discussion 1. Web Hosting Challenges
+    1. Technologies you consider looking for:
+	Local PC with static IP and Web Hosting
+	Reason: low cost solution, keep code on local machine where development 	happens, 
+	Challenges: performance is lower than dedicated server or cloud instance
+	Need skills for system administration, networking, and security
+	Energy consumption, and variable availability of web page to users external
+	
+
+
+    2. Location of your server
+	Local machine utilizing NoIP: a service allowing a web server on local machine to have an external static IP address. 
+	IP address with web page is always available, and has built in security features.
+	NoIP solution is low cost: monthly fee for hosting your IP.
+	Developer pushes code from local machine's web server directory 
+    3. Support your desired database??
+	Yes, platform is Linux OS, with open-source components on the stack.
+	CentOS: server,	Nginx: web-server, MariaDB/SQLite3: database, Python: s ripting engine
+	Challenge: maintaining and configuring the stack/db.
+	Opportunity: gaining experience fromntaining and configuring the stack/db. 

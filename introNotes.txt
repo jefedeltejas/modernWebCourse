@@ -19,4 +19,4 @@ Discussion 1. Web Hosting Challenges
 	Yes, platform is Linux OS, with open-source components on the stack.
 	CentOS: server,	Nginx: web-server, MariaDB/SQLite3: database, Python: s ripting engine
 	Challenge: maintaining and configuring the stack/db.
-	Opportunity: gaining experience fromntaining and configuring the stack/db. 
+	Opportunity: gaining experience from maintaining and configuring the stack/db. 

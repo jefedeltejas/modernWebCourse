@@ -1,0 +1,25 @@
+{
+  "name": "modern-web-course",
+  "version": "1.0.0",
+  "description": "code examples from html, css, and js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefedeltejas/modernWebCourse.git"
+  },
+  "keywords": [
+    "webpages",
+    "html5",
+    "css",
+    "javascript"
+  ],
+  "author": "Jeff Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefedeltejas/modernWebCourse/issues"
+  },
+  "homepage": "https://github.com/jefedeltejas/modernWebCourse#readme"
+}
